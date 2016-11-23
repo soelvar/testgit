@@ -29,6 +29,8 @@
                     <noDeploy>true</noDeploy>
                     <autoVersionSubmodules>true</autoVersionSubmodules>
                     <pushReleases>true</pushReleases>
+                    <username>soelvar</username>
+                    <password>test123</password>
             </configuration>
             </plugin>
         </plugins>
