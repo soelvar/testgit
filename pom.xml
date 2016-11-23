@@ -27,6 +27,7 @@
                 <artifactId>jgitflow-maven-plugin</artifactId>
                 <configuration>
                     <noDeploy>true</noDeploy>
+                    <autoVersionSubmodules>true</autoVersionSubmodules>
             </configuration>
             </plugin>
         </plugins>
