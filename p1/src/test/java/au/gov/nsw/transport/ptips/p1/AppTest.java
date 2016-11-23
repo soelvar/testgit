@@ -1,4 +1,4 @@
-package com.test.git;
+package au.gov.nsw.transport.ptips.p1;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

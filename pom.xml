@@ -1,7 +1,7 @@
 <project>
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.test</groupId>
-    <artifactId>git</artifactId>
+    <groupId>au.gov.nsw.transport.ptips</groupId>
+    <artifactId>test</artifactId>
     <version>1.0</version>
     <packaging>pom</packaging>
 
