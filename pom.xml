@@ -28,5 +28,16 @@
             </plugin>
         </plugins>
     </build>
+
+    <distributionManagement>
+        <repository>
+            <id>artifactory.transport.nsw.gov.au-libs-release-local</id>
+            <url>http://artifactory.transport.nsw.gov.au/artifactory/libs-release-local</url>
+        </repository>
+        <snapshotRepository>
+            <id>artifactory.transport.nsw.gov.au-libs-snapshot-local</id>
+            <url>http://artifactory.transport.nsw.gov.au/artifactory/libs-snapshot-local</url>
+        </snapshotRepository>
+    </distributionManagement>
 </project>
 
