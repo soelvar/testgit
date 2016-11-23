@@ -26,9 +26,7 @@
                 <groupId>external.atlassian.jgitflow</groupId>
                 <artifactId>jgitflow-maven-plugin</artifactId>
                 <configuration>
-                <flowInitContext>
                     <noDeploy>true</noDeploy>
-                </flowInitContext>
             </configuration>
             </plugin>
         </plugins>
