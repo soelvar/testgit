@@ -29,6 +29,7 @@
                     <noDeploy>true</noDeploy>
                     <autoVersionSubmodules>true</autoVersionSubmodules>
                     <pushReleases>true</pushReleases>
+                    <keepBranch>true</keepBranch>
                     <username>soelvar</username>
                     <password>test123</password>
             </configuration>
