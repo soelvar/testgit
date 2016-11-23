@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>au.gov.nsw.transport.ptips</groupId>
     <artifactId>test</artifactId>
-    <version>1.1</version>
+    <version>1.2</version>
     <packaging>pom</packaging>
 
     <modules>
@@ -28,6 +28,7 @@
                 <configuration>
                     <noDeploy>true</noDeploy>
                     <autoVersionSubmodules>true</autoVersionSubmodules>
+                    <pushReleases>true</pushReleases>
             </configuration>
             </plugin>
         </plugins>
