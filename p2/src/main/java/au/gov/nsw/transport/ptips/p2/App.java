@@ -1,4 +1,4 @@
-package com.test.git;
+package au.gov.nsw.transport.ptips.p2;
 
 /**
  * Hello world!
