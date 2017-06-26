@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>au.gov.nsw.transport.ptips</groupId>
     <artifactId>test</artifactId>
-    <version>1.8</version>
+    <version>1.9</version>
     <packaging>pom</packaging>
 
     <modules>
@@ -29,7 +29,7 @@
                     <noDeploy>true</noDeploy>
                     <autoVersionSubmodules>true</autoVersionSubmodules>
                     <pushReleases>true</pushReleases>
-                    <keepBranch>true</keepBranch>
+                    <keepBranch>false</keepBranch>
                     <username>soelvar</username>
                     <password>test123</password>
             </configuration>
