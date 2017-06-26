@@ -4,12 +4,12 @@
     <parent>
         <groupId>au.gov.nsw.transport.ptips</groupId>
         <artifactId>test</artifactId>
-        <version>1.7</version>
+        <version>1.8</version>
     </parent>
 
     <groupId>au.gov.nsw.transport.ptips.test</groupId>
     <artifactId>p2</artifactId>
-    <version>1.7</version>
+    <version>1.8</version>
     <packaging>jar</packaging>
 
     <name>p2</name>
