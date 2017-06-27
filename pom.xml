@@ -33,6 +33,7 @@
                     <username>soelvar</username>
                     <password>test123</password>
                     <buildNumber>1</buildNumber>
+                    <noDeploy>false</noDeploy>
             </configuration>
             </plugin>
         </plugins>
