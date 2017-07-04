@@ -32,7 +32,7 @@
                     <keepBranch>false</keepBranch>
                     <username>soelvar</username>
                     <password>test123</password>
-                    <buildNumber>1</buildNumber>
+                    <enableFeatureVersions>true</enableFeatureVersions>
                     <noDeploy>false</noDeploy>
             </configuration>
             </plugin>
