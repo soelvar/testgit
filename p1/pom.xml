@@ -4,12 +4,12 @@
     <parent>
         <groupId>au.gov.nsw.transport.ptips</groupId>
         <artifactId>test</artifactId>
-        <version>3.14.14-SNAPSHOT</version>
+        <version>3.14.13-build1</version>
     </parent>
 
     <groupId>au.gov.nsw.transport.ptips.test</groupId>
     <artifactId>p1</artifactId>
-    <version>3.14.14-SNAPSHOT</version>
+    <version>3.14.13-build1</version>
     <packaging>jar</packaging>
 
     <name>p1</name>
